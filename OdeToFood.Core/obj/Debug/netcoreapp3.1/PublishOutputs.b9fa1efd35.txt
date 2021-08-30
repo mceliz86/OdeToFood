@@ -1,0 +1,3 @@
+C:\Users\qlje\Desktop\Newfolder\OdeToFood.Core.dll
+C:\Users\qlje\Desktop\Newfolder\OdeToFood.Core.deps.json
+C:\Users\qlje\Desktop\Newfolder\OdeToFood.Core.pdb
